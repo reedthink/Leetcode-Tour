@@ -34,7 +34,5 @@ public:
         return total_S - touch00;
         // return total_S;
         // return touch00;
-
-
     }
 };
