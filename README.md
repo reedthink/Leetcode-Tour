@@ -16,9 +16,12 @@ https://leetcode-cn.com/problemset/all/
 - meduim : 0
 
 ## 2020/3/28
-- easy: 目标5道
+- easy: 目标5道 6/5
 - meduim : 目标3道 1/3
 
+
+
+被“秒杀”的题目不再上传代码，仅记录数量
 
 ---
 残念：leetcode英文站很难登进去，只有用中文站了，难受啊  
