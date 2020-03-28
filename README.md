@@ -17,8 +17,9 @@ https://leetcode-cn.com/problemset/all/
 
 ## 2020/3/28
 - easy: 目标5道
-- meduim : 目标10道
+- meduim : 目标3道 1/3
 
 
+---
 残念：leetcode英文站很难登进去，只有用中文站了，难受啊  
 不能在本地调试，难受啊

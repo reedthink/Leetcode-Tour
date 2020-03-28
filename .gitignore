@@ -34,3 +34,4 @@
 # Custom
 testEnv.cpp
 build
+*.in
