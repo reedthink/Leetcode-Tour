@@ -18,7 +18,9 @@ https://leetcode-cn.com/problemset/all/
 ## 2020/3/28
 - easy: 目标5道 6/5
 - meduim : 目标3道 1/3
-
+## 2020/3/29
+- easy: 2
+- meduim : 1
 
 
 被“秒杀”的题目不再上传代码，仅记录数量
