@@ -22,6 +22,9 @@ https://leetcode-cn.com/problemset/all/
 - easy: 2
 - meduim : 1
 
+## 2020/4/2
+- easy: 
+- meduim: 1
 
 被“秒杀”的题目不再上传代码，仅记录数量
 
