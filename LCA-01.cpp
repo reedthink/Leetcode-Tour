@@ -13,6 +13,7 @@ struct Node
         right = nullptr;
     }
 };
+
 Node *findLCA(Node *root, int n1, int n2)
 {
     if (root == NULL)
@@ -21,6 +22,7 @@ Node *findLCA(Node *root, int n1, int n2)
     {
         return root;
     }
+
     auto left_lca = findLCA(root->left, n1, n2);
     auto right_lca = findLCA(root->right, n1, n2);
 
@@ -34,6 +36,5 @@ Node *findLCA(Node *root, int n1, int n2)
 int main()
 {
     
-
     return 0;
 }
