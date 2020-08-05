@@ -20,7 +20,7 @@ void dfs(int v,int p,int d)
             dfs(G[v][i],v,d+1);
     }
 }
-void init()
+void init() 
 {
     dfs(root,-1,0);
 }
